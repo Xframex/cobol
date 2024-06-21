@@ -30,3 +30,7 @@
            END-EVALUATE
 
            STOP RUN.
+
+        ValidateDate.
+          DISPLAY "Enter a validation return code (0-8) "
+          ACCEPT ValidationReturnCode.
