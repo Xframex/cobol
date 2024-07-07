@@ -4,7 +4,6 @@
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
-       
 
        01  AGE     PIC 99.
            88 INFANT  VALUE 0 THRU 3.
